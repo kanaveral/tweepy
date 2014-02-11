@@ -1,6 +1,8 @@
-Tweepy [![Build Status](https://travis-ci.org/tweepy/tweepy.png)](https://travis-ci.org/tweepy/tweepy)
+Tweepy: Twitter for Python!
 ======
-*Twitter for Python!*
+[![Build Status](https://travis-ci.org/tweepy/tweepy.png?branch=master)](https://travis-ci.org/tweepy/tweepy)
+[![Downloads](https://pypip.in/d/tweepy/badge.png)](https://crate.io/packages/tweepy) [![Downloads](https://pypip.in/v/tweepy/badge.png)](https://crate.io/packages/tweepy)
+[![Coverage Status](https://coveralls.io/repos/tweepy/tweepy/badge.png?branch=master)](https://coveralls.io/r/tweepy/tweepy?branch=master)
 
 Installation
 ------------
@@ -15,7 +17,7 @@ Github and install it manually:
     git clone https://github.com/tweepy/tweepy.git
     python setup.py install
 
-**Note** only Python 2.5 to 2.7 is supported at
+**Note** only Python 2.6 and 2.7 is supported at
 the moment. The Python 3 family is not yet supported.
 
 Documentation
